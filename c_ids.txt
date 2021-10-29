@@ -21,6 +21,9 @@ sucrose
 traveler_boy_anemo
 traveler_boy_electro
 traveler_boy_geo
+traveler_girl_anemo
+traveler_girl_electro
+traveler_girl_geo
 venti
 xiangling
 xingqiu
